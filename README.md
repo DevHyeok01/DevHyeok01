@@ -53,8 +53,11 @@
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevHyeok01&theme=github_dark" width="34%" />
-<img src="https://streak-stats.demolab.com/?user=DevHyeok01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=58a6ff" width="34%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevHyeok01&theme=github_dark" width="34%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=DevHyeok01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=58a6ff" width="45%" />
 
 </div>
 
