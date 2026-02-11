@@ -57,7 +57,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:202010098@live.wsu.ac.kr)
+#[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:202010098@live.wsu.ac.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/DevHyeok01)
 
 </div>
