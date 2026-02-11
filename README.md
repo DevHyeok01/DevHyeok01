@@ -1,129 +1,161 @@
 <div align="center">
 
-<!-- Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=220&section=header&text=DevHyeok01&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Backend%20%7C%20Developer&descSize=20&descColor=58a6ff&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=DevHyeok01&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Vibe%20Coder%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=58a6ff&descAlignY=55" width="100%" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B9%80%EC%83%81%ED%98%81%EC%9E%85%EB%8B%88%EB%8B%A4;AI+%26+BigData+Student+%40+Woosong+Univ.;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%A4%96+AI+%2F+Robotics+Explorer;%F0%9F%94%90+Security+Enthusiast;%F0%9F%8E%A8+Vibe+Coding+%3D+Creativity+%2B+Flow;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
 </div>
 
-<br>
+---
 
-## 🖥️ `whoami`
+## `> whoami`
 
-```bash
-$ cat /home/devhyeok01/about.txt
+```js
+const DevHyeok01 = {
+    name: "김상혁 (Kim Sanghyeok)",
+    school: "우송대학교 AI빅데이터학과",
+    email: "202010098@live.wsu.ac.kr",
+    role: ["Vibe Coder 🎨", "Full Stack Developer 🖥️"],
+    interests: ["AI 🤖", "Robotics 🦾", "Security 🔐"],
+    motto: "느낌으로 코딩하고, 기술로 증명한다."
+};
 ```
 
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   Name     : 김상혁 (Kim Sanghyeok)                      │
-│   School   : 우송대학교 AI빅데이터학과 3학년                 │
-│   Role     : AI 기반 응용SW 개발자 과정 학습 중              │
-│   Program  : 2025 채용연계형 SW 전문인재 양성사업 참여 중     │
-│   Email    : 202010098@live.wsu.ac.kr                    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+---
 
-<br>
-
-## ⚡ Tech Stack
+## `> cat interests.log`
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<table>
+<tr>
+<td align="center" width="33%">
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+### 🤖 AI
+`Machine Learning`
+`Deep Learning`
+`Computer Vision`
+`NLP`
 
-### 📚 Currently Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+</td>
+<td align="center" width="33%">
+
+### 🦾 Robotics
+`Embedded Systems`
+`Sensor Fusion`
+`Autonomous Control`
+`ROS`
+
+</td>
+<td align="center" width="33%">
+
+### 🔐 Security
+`Web Security`
+`Penetration Testing`
+`Cryptography`
+`Network Defense`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+---
 
-## 🎯 Goals & Interests
+## `> ls tech-stack/`
 
-```python
-class DevHyeok01:
-    def __init__(self):
-        self.interests = ["AI / 머신러닝", "빅데이터 분석", "웹 개발"]
-        self.goals = {
-            "2025": "SW 전문인재 양성과정 수료 & 포트폴리오 완성",
-            "단기": "AI 기반 응용 서비스 개발 역량 강화",
-            "장기": "AI 엔지니어로 성장"
-        }
-        self.currently_learning = "AI 기반 응용SW 개발"
-    
-    def say_hi(self):
-        print("끊임없이 배우고, 끊임없이 성장합니다. 🚀")
+<div align="center">
 
-me = DevHyeok01()
-me.say_hi()
+#### ⚡ Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+
+#### 🛠️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+
+#### 🤖 AI / Robotics
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![ROS](https://img.shields.io/badge/ROS-0d1117?style=for-the-badge&logo=ros&logoColor=22314E)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00878F)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+
+#### 🔐 Security & DevOps
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+</div>
+
+---
+
+## `> cat vibe-coding.md`
+
+```
+🎨 바이브 코딩(Vibe Coding)이란?
+
+직감과 창의성을 기반으로 코드를 작성하는 개발 스타일.
+완벽한 설계보다 빠른 프로토타이핑과 실험을 추구하며,
+AI 도구와 함께 아이디어를 즉시 현실로 만들어내는 것.
+
+"Don't overthink. Just code the vibe." ⚡
 ```
 
-<br>
+---
 
-## 📊 GitHub Stats
+## `> system-monitor --stats`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevHyeok01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevHyeok01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=58a6ff" width="49%" />
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHyeok01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="40%" />
 
-</div>
-
 <br>
 
-## 🐍 Contribution Snake
+<img src="https://github-profile-trophy.vercel.app/?username=DevHyeok01&theme=algolia&no-bg=true&no-frame=true&column=7" width="80%" />
+
+</div>
+
+---
+
+## `> contact --connect`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevHyeok01/DevHyeok01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevHyeok01/DevHyeok01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DevHyeok01/DevHyeok01/output/github-snake-dark.svg" />
-</picture>
+[![Email](https://img.shields.io/badge/📧_202010098@live.wsu.ac.kr-0d1117?style=for-the-badge&logoColor=white)](mailto:202010098@live.wsu.ac.kr)
+[![GitHub](https://img.shields.io/badge/GitHub-DevHyeok01-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHyeok01)
 
 </div>
 
-<br>
-
-## 📩 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:202010098@live.wsu.ac.kr)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHyeok01)
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=DevHyeok01&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=0d1117" />
 
+<br><br>
+
+```
+⚡ "느낌으로 시작하고, 코드로 완성한다." — DevHyeok01
+```
+
 </div>
 
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer" width="100%" />
