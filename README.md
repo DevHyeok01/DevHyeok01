@@ -48,8 +48,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevHyeok01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=DevHyeok01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=58a6ff" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevHyeok01&theme=github_dark" width="70%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevHyeok01&theme=github_dark" width="34%" />
+<img src="https://streak-stats.demolab.com/?user=DevHyeok01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=58a6ff" width="34%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevHyeok01&theme=github_dark" width="34%" />
 
 </div>
 
@@ -57,7 +62,7 @@
 
 <div align="center">
 
-#[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:202010098@live.wsu.ac.kr)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:202010098@live.wsu.ac.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/DevHyeok01)
 
 </div>
